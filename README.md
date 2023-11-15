@@ -1,0 +1,3 @@
+# aapl-interactive-stock-chart
+
+Stock Chart Demo is a web application that showcases an interactive stock chart of Apple Inc. (AAPL) using TradingView, a platform for financial visualization and analysis. The application is built with HTML, CSS, and JavaScript, and it is optimized for mobile responsiveness and performance. The application can display different types of charts for mobile and desktop users, such as a simple line chart for mobile devices and a bar chart for desktop devices. The application also allows users to customize the chart appearance and functionality using both JavaScript and CSS. The application is a demonstration of how to integrate TradingView with a web application and how to enhance the user experience with various techniques.
